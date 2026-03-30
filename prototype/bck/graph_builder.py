@@ -37,7 +37,7 @@ class GraphConfig:
     master_root_name: str = "Organization Master Root"
 
     # Local storage
-    local_graph_path: str = "./graph_data/organization_graph.json"
+    local_graph_path: str = "../graph_data/organization_graph.json"
 
     # FalkorDB connection
     falkordb_host: str = "localhost"

@@ -36,7 +36,7 @@ class CapabilityGraphConfig:
     master_root_name: str = "Business Capability Map"
     
     # Local storage
-    local_graph_path: str = "./graph_data/capability_graph.json"
+    local_graph_path: str = "../graph_data/capability_graph.json"
     
     # FalkorDB connection
     falkordb_host: str = "localhost"
