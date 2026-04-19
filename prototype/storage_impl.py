@@ -532,10 +532,27 @@ class FalkorDBGraphStore(GraphStoreBase):
     def query(self, cypher: str, params: Dict[str, Any] = None) -> List[Dict[str, Any]]:
         if not self._connected:
             return []
-        
+
         try:
             result = self._graph.query(cypher, params or {})
-            return [dict(zip(result.header, row)) for row in result.result_set]
+            # FalkorDB header entries can be [column_type, column_name] lists
+            # or plain strings — extract the name in either case
+            headers = []
+            for h in result.header:
+                if isinstance(h, (list, tuple)):
+                    headers.append(h[-1])   # last element is the column name
+                else:
+                    headers.append(str(h))
+            rows = []
+            for row in result.result_set:
+                row_dict = {}
+                for key, val in zip(headers, row):
+                    if hasattr(val, 'properties'):
+                        row_dict[key] = dict(val.properties)
+                    else:
+                        row_dict[key] = val
+                rows.append(row_dict)
+            return rows
         except Exception as e:
             print(f"Query error: {e}")
             return []

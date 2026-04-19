@@ -199,10 +199,10 @@ org_builder.build_from_chromadb(db)
 org_builder.upload_to_falkordb()
 
 # 2. Build capability graph
-from capability_graph import create_capability_graph_builder
+from capability_graph import create_capability_builder
 
-cap_builder = create_capability_graph_builder(falkordb_url="redis://...")
-cap_builder.build_from_csv("business_capabilities.csv")
+cap_builder = create_capability_builder(falkordb_url="redis://...")
+cap_builder.build_from_file("data/Capability/EP_Business_Map_5.0.xlsx")
 cap_builder.upload_to_falkordb()
 
 # 3. Refine descriptions (stored in both NetworkX and FalkorDB)
