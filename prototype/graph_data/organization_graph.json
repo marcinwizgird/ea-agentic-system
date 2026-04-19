@@ -1,0 +1,1255 @@
+{
+  "metadata": {
+    "nodes": 91,
+    "edges": 90,
+    "master_root_id": "ORG_MASTER",
+    "backend": "falkordb"
+  },
+  "nodes": [
+    {
+      "id": "22",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Directorate-General for Cohesion, Agriculture and Social Policies",
+      "level": 0
+    },
+    {
+      "id": "22-10",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Resources Unit",
+      "level": 0
+    },
+    {
+      "id": "22A",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Directorate for Regional Development, Agriculture and Fisheries",
+      "level": 0
+    },
+    {
+      "id": "22A10",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Policy Department",
+      "level": 0
+    },
+    {
+      "id": "22A20",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Secretariat of the Committee on Regional Development",
+      "level": 0
+    },
+    {
+      "id": "22A30",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Secretariat of the Committee on Agriculture and Rural Development",
+      "level": 0
+    },
+    {
+      "id": "22A40",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Secretariat of the Committee on Fisheries",
+      "level": 0
+    },
+    {
+      "id": "22B",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Directorate for Transport, Employment and Social Affairs",
+      "level": 0
+    },
+    {
+      "id": "22B00",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "(synthesized) 22B00",
+      "level": 0
+    },
+    {
+      "id": "22B0040",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Secretariat of the Special Committee on the Housing Crisis in the European Union",
+      "level": 0
+    },
+    {
+      "id": "22B10",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Policy Department",
+      "level": 0
+    },
+    {
+      "id": "22B20",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Secretariat of the Committee on Transport and Tourism",
+      "level": 0
+    },
+    {
+      "id": "22B30",
+      "type": "org_unit",
+      "node_type": "organization",
+      "name": "Secretariat of the Committee on Employment and Social Affairs",
+      "level": 0
+    },
+    {
+      "id": "22.1",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Define strategy and ensure the development of general management. Contribute to strengthening the role of Parliament in the exercise of its legislative, budgetary and control powers - in execution of the Parliamentary Reform 2024 program - through support to parliamentary committees, including expertise.",
+      "weight_pct": 25,
+      "parent_org": "22",
+      "excel_row": 1
+    },
+    {
+      "id": "22.2",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the proper functioning and administrative coordination of the work of parliamentary committees in the areas of cohesion policies, agriculture, fisheries, transport and tourism, social policies as well as the housing crisis in the EU.",
+      "weight_pct": 25,
+      "parent_org": "22",
+      "excel_row": 2
+    },
+    {
+      "id": "22.3",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Represent the general management within the bodies of Parliament and ensure the monitoring and consistency of parliamentary work. Cooperate with other internal services of the Parliament, including the services responsible for EU policies (DG ECTI, IUST, BUDG, EXPO), the Directorate for the Coordination of Committees and Legislative Activities (CCLA), DG PRES and the Cabinets.",
+      "weight_pct": 15,
+      "parent_org": "22",
+      "excel_row": 3
+    },
+    {
+      "id": "22.4",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Manage human resources and the general management budget, in collaboration with the management team.",
+      "weight_pct": 15,
+      "parent_org": "22",
+      "excel_row": 4
+    },
+    {
+      "id": "22.5",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Represent general management in interinstitutional relations.",
+      "weight_pct": 10,
+      "parent_org": "22",
+      "excel_row": 5
+    },
+    {
+      "id": "22.6",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Coordinate the procedures of the general management and the work of the central secretariat. Ensure compliance and correct application of applicable internal rules and procedures.",
+      "weight_pct": 5,
+      "parent_org": "22",
+      "excel_row": 6
+    },
+    {
+      "id": "22.7",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Perform the functions of delegated authorizing officer.",
+      "weight_pct": 5,
+      "parent_org": "22",
+      "excel_row": 7
+    },
+    {
+      "id": "22-10.8",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Manage the recruitment of staff for the DG, the organization chart of permanent, temporary and contractual staff positions, rights and obligations (absences, illness, leave, CCP, retirement, external activities), the mobility exercise, the selection of interns; monitoring of reintegration. Provide analysis and advice on strategic/regulatory issues relating to HR and their evolution; assist the DG in organizing the rating exercise.",
+      "weight_pct": 20,
+      "parent_org": "22-10",
+      "excel_row": 8
+    },
+    {
+      "id": "22-10.9",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Manage the centralized financial system; ensure initiation and financial verification in dedicated FMS and Webcontracts IT systems, management of financial players, archiving; meet the needs of DG units on budgetary management and financial procedures.",
+      "weight_pct": 20,
+      "parent_org": "22-10",
+      "excel_row": 9
+    },
+    {
+      "id": "22-10.10",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Develop the strategic planning and reporting cycle for general management, coordinate risk management and the business continuity plan. Ensure the representation of general management in various horizontal work groups; management and coordination of the DG's EMAS actions; ensure the coordination of 'simplification' actions.",
+      "weight_pct": 15,
+      "parent_org": "22-10",
+      "excel_row": 10
+    },
+    {
+      "id": "22-10.11",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Organize internal training in cooperation with DG PERS services (training plan, budget monitoring, strategic actions, etc.), study visits, secondments, fellowships; organize and finance external training; organize training for new arrivals in general management; organize the reception of trainees; provide a career advice service (RELOP).",
+      "weight_pct": 10,
+      "parent_org": "22-10",
+      "excel_row": 11
+    },
+    {
+      "id": "22-10.12",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Logistics: Ensure the logistical support necessary for the proper functioning of the DG; identify and manage the present and future spaces of the DG; support for office moves; liaise with DG ITEC on IT-related matters; overall coordination in the field of infrastructure and communication with other services of DG CASP, DG INLO and DG ITEC.",
+      "weight_pct": 10,
+      "parent_org": "22-10",
+      "excel_row": 12
+    },
+    {
+      "id": "22-10.13",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Coordinate, establish and draft the general management budget. Monitoring the budgetary envelopes of the DG and execution of its annual budget, ensuring the monitoring of budgetary transfers, discharge, handling audit questions with the internal auditor, in collaboration with the units of the general management. Write periodic activity reports. Ensure the coordination of internal control of the DG.",
+      "weight_pct": 10,
+      "parent_org": "22-10",
+      "excel_row": 13
+    },
+    {
+      "id": "22-10.14",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Management of the budget envelope for missions (3L and H3L), compliance with procedures, exemptions, special events; assist colleagues in units in the preparation of mission orders and expense declarations; management of the budget envelope for interns; management of the overtime regime.",
+      "weight_pct": 8,
+      "parent_org": "22-10",
+      "excel_row": 14
+    },
+    {
+      "id": "22-10.15",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Coordinate internal communication (writing and publication); organize internal events; manage the DG website; communication services to other units; ensure consistency according to the visual identity of the EP.",
+      "weight_pct": 7,
+      "parent_org": "22-10",
+      "excel_row": 15
+    },
+    {
+      "id": "22A.16",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the direction, coordination and animation of the units and services of the directorate, as well as the management of personnel and the general organization of the directorate.",
+      "weight_pct": 60,
+      "parent_org": "22A",
+      "excel_row": 16
+    },
+    {
+      "id": "22A.17",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Advise the deputies of Parliament in their areas of expertise and assist them as members of the parliamentary management committees, and in particular the presidents and rapporteurs, in the exercise of their functions.",
+      "weight_pct": 10,
+      "parent_org": "22A",
+      "excel_row": 17
+    },
+    {
+      "id": "22A.18",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Provide parliamentary committees with high-level expertise, up-to-date analysis and independent research in areas covered by the directorate.",
+      "weight_pct": 10,
+      "parent_org": "22A",
+      "excel_row": 18
+    },
+    {
+      "id": "22A.19",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Exercise the function of subdelegated authorizing officer.",
+      "weight_pct": 10,
+      "parent_org": "22A",
+      "excel_row": 19
+    },
+    {
+      "id": "22A.20",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure project management in the areas of expertise of the management units and services.",
+      "weight_pct": 5,
+      "parent_org": "22A",
+      "excel_row": 20
+    },
+    {
+      "id": "22A.21",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Represent the institution in various internal committees and interinstitutional forums. Ensure contacts with the internal services of Parliament.",
+      "weight_pct": 5,
+      "parent_org": "22A",
+      "excel_row": 21
+    },
+    {
+      "id": "22A10.22",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Provide assistance to parliamentary bodies and the secretariats of parliamentary committees in terms of studies, notes and research in the following areas: regional development, agriculture and rural development and fisheries policies (Relevant committees: REGI, AGRI, PECH).",
+      "weight_pct": 35,
+      "parent_org": "22A10",
+      "excel_row": 22
+    },
+    {
+      "id": "22A10.23",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Manage tender procedures and negotiations for carrying out studies and using external expertise.",
+      "weight_pct": 25,
+      "parent_org": "22A10",
+      "excel_row": 23
+    },
+    {
+      "id": "22A10.24",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Control the scientific quality of studies developed by external consultants.",
+      "weight_pct": 20,
+      "parent_org": "22A10",
+      "excel_row": 24
+    },
+    {
+      "id": "22A10.25",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Maintain and develop relationships with DG EPRS services, external experts, research institutes and universities. Ensure contacts with the internal services of Parliament.",
+      "weight_pct": 10,
+      "parent_org": "22A10",
+      "excel_row": 25
+    },
+    {
+      "id": "22A10.26",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Write and regularly update the 'Thematic Sheets'.",
+      "weight_pct": 5,
+      "parent_org": "22A10",
+      "excel_row": 26
+    },
+    {
+      "id": "22A10.27",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Promote and monitor the impact of the expertise provided.",
+      "weight_pct": 5,
+      "parent_org": "22A10",
+      "excel_row": 27
+    },
+    {
+      "id": "22A20.28",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Assist, through written and oral contributions, MEPs in the exercise of their functions as president, vice-president, rapporteur, draftsman for opinion. Prepare working documents/draft reports (legislative and non-legislative procedures), draft opinions.",
+      "weight_pct": 55,
+      "parent_org": "22A20",
+      "excel_row": 28
+    },
+    {
+      "id": "22A20.29",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the secretariat of the commission (organization of meetings, coordinators' meetings, organization and monitoring of working groups, programming, trilogues, minutes, etc.).",
+      "weight_pct": 25,
+      "parent_org": "22A20",
+      "excel_row": 29
+    },
+    {
+      "id": "22A20.30",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Organize public hearings, commission missions outside the workplace, etc.",
+      "weight_pct": 5,
+      "parent_org": "22A20",
+      "excel_row": 30
+    },
+    {
+      "id": "22A20.31",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure follow-up of documents received as part of regional policy programming.",
+      "weight_pct": 5,
+      "parent_org": "22A20",
+      "excel_row": 31
+    },
+    {
+      "id": "22A20.32",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with other institutions, regional organizations, interested circles and civil society. Ensure contacts with the internal services of Parliament.",
+      "weight_pct": 5,
+      "parent_org": "22A20",
+      "excel_row": 32
+    },
+    {
+      "id": "22A20.33",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Attend the committee's monitoring activities.",
+      "weight_pct": 5,
+      "parent_org": "22A20",
+      "excel_row": 33
+    },
+    {
+      "id": "22A30.34",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the secretariat of the commission (organization of meetings, coordinators' meetings, trilogues, programming, minutes, etc.).",
+      "weight_pct": 40,
+      "parent_org": "22A30",
+      "excel_row": 34
+    },
+    {
+      "id": "22A30.35",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Prepare working documents/draft reports (legislative and non-legislative procedures including trilogues), monitoring 'comitology' acts.",
+      "weight_pct": 30,
+      "parent_org": "22A30",
+      "excel_row": 35
+    },
+    {
+      "id": "22A30.36",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Assist, through written and oral contributions, MEPs in the exercise of their functions as president, vice-president, rapporteur, draftsman for opinion.",
+      "weight_pct": 10,
+      "parent_org": "22A30",
+      "excel_row": 36
+    },
+    {
+      "id": "22A30.37",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Organize public hearings, working group missions outside the workplace, etc.",
+      "weight_pct": 10,
+      "parent_org": "22A30",
+      "excel_row": 37
+    },
+    {
+      "id": "22A30.38",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with other institutions, interested circles and civil society as well as with the internal services of Parliament.",
+      "weight_pct": 5,
+      "parent_org": "22A30",
+      "excel_row": 38
+    },
+    {
+      "id": "22A30.39",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Attend the committee's monitoring activities.",
+      "weight_pct": 5,
+      "parent_org": "22A30",
+      "excel_row": 39
+    },
+    {
+      "id": "22A40.40",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the secretariat of the commission (organization of commission and coordinator meetings, trilogues, shadow meetings, preparation of minutes and records of decisions, scheduling of work, etc.).",
+      "weight_pct": 40,
+      "parent_org": "22A40",
+      "excel_row": 40
+    },
+    {
+      "id": "22A40.41",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Prepare working documents/draft reports/opinions (legislative and non-legislative procedures), budgetary and EFCA discharge opinions; monitoring of delegated acts and implementing acts.",
+      "weight_pct": 20,
+      "parent_org": "22A40",
+      "excel_row": 41
+    },
+    {
+      "id": "22A40.42",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Organize for members of the Fisheries Committee, public hearings and missions or delegations necessary in the exercise of their legislative activity.",
+      "weight_pct": 20,
+      "parent_org": "22A40",
+      "excel_row": 42
+    },
+    {
+      "id": "22A40.43",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Assist, through specific written and oral contributions, MEPs in the exercise of their functions as president, vice-president, coordinator, rapporteur or draftsman for opinion.",
+      "weight_pct": 10,
+      "parent_org": "22A40",
+      "excel_row": 43
+    },
+    {
+      "id": "22A40.44",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Attend the committee's monitoring activities.",
+      "weight_pct": 5,
+      "parent_org": "22A40",
+      "excel_row": 44
+    },
+    {
+      "id": "22A40.45",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with other Institutions, as well as interested circles and civil society, in particular national fishing sectors, international fishing organizations, fisheries advisory councils, etc. Ensure contacts with the internal services of Parliament.",
+      "weight_pct": 5,
+      "parent_org": "22A40",
+      "excel_row": 45
+    },
+    {
+      "id": "22B.46",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the direction, coordination and animation of the units and services of the directorate, as well as the management of personnel and the general organization of the directorate.",
+      "weight_pct": 60,
+      "parent_org": "22B",
+      "excel_row": 46
+    },
+    {
+      "id": "22B.47",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Advise the deputies of Parliament in their areas of expertise and assist them as members of the parliamentary management committees, and in particular the presidents and rapporteurs, in the exercise of their functions.",
+      "weight_pct": 10,
+      "parent_org": "22B",
+      "excel_row": 47
+    },
+    {
+      "id": "22B.48",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Provide parliamentary committees with high-level expertise, up-to-date analysis and independent research in areas covered by the directorate.",
+      "weight_pct": 10,
+      "parent_org": "22B",
+      "excel_row": 48
+    },
+    {
+      "id": "22B.49",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Exercise the function of subdelegated authorizing officer.",
+      "weight_pct": 10,
+      "parent_org": "22B",
+      "excel_row": 49
+    },
+    {
+      "id": "22B.50",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure project management in the areas of expertise of the management units and services.",
+      "weight_pct": 5,
+      "parent_org": "22B",
+      "excel_row": 50
+    },
+    {
+      "id": "22B.51",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Represent management in various internal committees and the institution in different interinstitutional forums. Ensure contacts with the internal services of Parliament.",
+      "weight_pct": 5,
+      "parent_org": "22B",
+      "excel_row": 51
+    },
+    {
+      "id": "22B10.52",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Provide assistance to parliamentary bodies and the secretariats of parliamentary committees in terms of studies, notes and research in the following areas: transport and tourism policies, employment and social affairs and the housing crisis in the European Union (Relevant committees: TRAN, EMPL, HOUS).",
+      "weight_pct": 35,
+      "parent_org": "22B10",
+      "excel_row": 52
+    },
+    {
+      "id": "22B10.53",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Manage tender procedures and negotiations for carrying out studies and using external expertise.",
+      "weight_pct": 25,
+      "parent_org": "22B10",
+      "excel_row": 53
+    },
+    {
+      "id": "22B10.54",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Control the scientific quality of studies developed by external consultants.",
+      "weight_pct": 20,
+      "parent_org": "22B10",
+      "excel_row": 54
+    },
+    {
+      "id": "22B10.55",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Maintain and develop relationships with DG EPRS services, external experts, research institutes and universities. Ensure contacts with the internal services of Parliament.",
+      "weight_pct": 10,
+      "parent_org": "22B10",
+      "excel_row": 55
+    },
+    {
+      "id": "22B10.56",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Write and regularly update thematic sheets.",
+      "weight_pct": 5,
+      "parent_org": "22B10",
+      "excel_row": 56
+    },
+    {
+      "id": "22B10.57",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Promote and monitor the impact of the expertise provided.",
+      "weight_pct": 5,
+      "parent_org": "22B10",
+      "excel_row": 57
+    },
+    {
+      "id": "22B20.58",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the secretariat of the Transport and Tourism Committee (organization of meetings, coordinators' meetings, programming, minutes, etc.).",
+      "weight_pct": 25,
+      "parent_org": "22B20",
+      "excel_row": 58
+    },
+    {
+      "id": "22B20.59",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Prepare working documents/draft reports (legislative and non-legislative procedures), monitor 'comitology' acts, transposition and application of European Union law.",
+      "weight_pct": 25,
+      "parent_org": "22B20",
+      "excel_row": 59
+    },
+    {
+      "id": "22B20.60",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Provide secretarial support for the TRAN negotiation teams during trilogues.",
+      "weight_pct": 25,
+      "parent_org": "22B20",
+      "excel_row": 60
+    },
+    {
+      "id": "22B20.61",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Organize public hearings, working group missions or delegations outside the workplace, etc.",
+      "weight_pct": 7,
+      "parent_org": "22B20",
+      "excel_row": 61
+    },
+    {
+      "id": "22B20.62",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Assist, through written and oral contributions, European deputies in the exercise of their functions as President, Vice-President, Rapporteur, Rapporteur for opinion.",
+      "weight_pct": 6,
+      "parent_org": "22B20",
+      "excel_row": 62
+    },
+    {
+      "id": "22B20.63",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Attend the committee's control activities (Scrutiny).",
+      "weight_pct": 5,
+      "parent_org": "22B20",
+      "excel_row": 63
+    },
+    {
+      "id": "22B20.64",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with other institutions, as well as with Parliament's internal services, interested circles and civil society (including Website, Newsletter, eMeeting and eCommittee).",
+      "weight_pct": 5,
+      "parent_org": "22B20",
+      "excel_row": 64
+    },
+    {
+      "id": "22B20.65",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with EMSA, EASA and ERA agencies.",
+      "weight_pct": 2,
+      "parent_org": "22B20",
+      "excel_row": 65
+    },
+    {
+      "id": "22B30.66",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the secretariat of the commission (organization of meetings, coordinators' meetings, programming, minutes, etc.).",
+      "weight_pct": 25,
+      "parent_org": "22B30",
+      "excel_row": 66
+    },
+    {
+      "id": "22B30.67",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Prepare working documents/draft reports (legislative and non-legislative procedures), monitor 'comitology' acts, transposition and application of European Union law.",
+      "weight_pct": 25,
+      "parent_org": "22B30",
+      "excel_row": 67
+    },
+    {
+      "id": "22B30.68",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Provide secretarial support to the EMPL negotiation teams during trilogues.",
+      "weight_pct": 25,
+      "parent_org": "22B30",
+      "excel_row": 68
+    },
+    {
+      "id": "22B30.69",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Organize public hearings and missions of commission members outside the workplace, etc.",
+      "weight_pct": 5,
+      "parent_org": "22B30",
+      "excel_row": 69
+    },
+    {
+      "id": "22B30.70",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Assist, through written and oral contributions, European deputies in the exercise of their functions as President, Vice-President, Rapporteur, Rapporteur for opinion.",
+      "weight_pct": 5,
+      "parent_org": "22B30",
+      "excel_row": 70
+    },
+    {
+      "id": "22B30.71",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Attend the committee's control activities (Scrutiny).",
+      "weight_pct": 5,
+      "parent_org": "22B30",
+      "excel_row": 71
+    },
+    {
+      "id": "22B30.72",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with the European Training Foundation (Turin), the Agency for Health and Safety at Work (Bilbao), the European Center for the Development of Vocational Training CEDEFOP (Thessaloniki), the European Foundation for the Improvement of Living and Working Conditions (Dublin), and the European Labor Authority (Bratislava).",
+      "weight_pct": 5,
+      "parent_org": "22B30",
+      "excel_row": 72
+    },
+    {
+      "id": "22B30.73",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with other institutions, as well as with the internal services of Parliament, interested circles and civil society.",
+      "weight_pct": 5,
+      "parent_org": "22B30",
+      "excel_row": 73
+    },
+    {
+      "id": "22B0040.74",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure the secretariat of the special commission on the housing crisis in the European Union (organization of meetings, coordinators' meetings, programming, minutes, etc.).",
+      "weight_pct": 30,
+      "parent_org": "22B0040",
+      "excel_row": 74
+    },
+    {
+      "id": "22B0040.75",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Organize and implement the work program in order to respond to the mandate of the special commission, including public hearings, exchanges of views, missions of Members outside the workplace and any other activity including that of monitoring the Commission in the development of its plan on affordable housing.",
+      "weight_pct": 30,
+      "parent_org": "22B0040",
+      "excel_row": 75
+    },
+    {
+      "id": "22B0040.76",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Prepare documents relating to the report (draft report, amendments document, etc.), as well as any other working document, sheet and analysis in relation to the subjects dealt with by the special commission.",
+      "weight_pct": 25,
+      "parent_org": "22B0040",
+      "excel_row": 76
+    },
+    {
+      "id": "22B0040.77",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Assist, through written and oral contributions, MEPs in the exercise of their functions as President, Vice-President, Rapporteur and shadow Rapporteurs.",
+      "weight_pct": 10,
+      "parent_org": "22B0040",
+      "excel_row": 77
+    },
+    {
+      "id": "22B0040.78",
+      "type": "activity",
+      "node_type": "activity",
+      "description": "Ensure contacts with other institutions including the Council, the Commission (and its 'Task force'), the EIB, the advisory committees, interested circles and civil society, as well as with Parliament's internal services.",
+      "weight_pct": 5,
+      "parent_org": "22B0040",
+      "excel_row": 78
+    }
+  ],
+  "edges": [
+    {
+      "source": "22",
+      "target": "22-10",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22",
+      "target": "22A",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22",
+      "target": "22B",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22",
+      "target": "22.1",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22",
+      "target": "22.2",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22",
+      "target": "22.3",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22",
+      "target": "22.4",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22",
+      "target": "22.5",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22",
+      "target": "22.6",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22",
+      "target": "22.7",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.8",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.9",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.10",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.11",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.12",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.13",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.14",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22-10",
+      "target": "22-10.15",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A",
+      "target": "22A10",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22A",
+      "target": "22A20",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22A",
+      "target": "22A30",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22A",
+      "target": "22A40",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22A",
+      "target": "22A.16",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A",
+      "target": "22A.17",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A",
+      "target": "22A.18",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A",
+      "target": "22A.19",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A",
+      "target": "22A.20",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A",
+      "target": "22A.21",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A10",
+      "target": "22A10.22",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A10",
+      "target": "22A10.23",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A10",
+      "target": "22A10.24",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A10",
+      "target": "22A10.25",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A10",
+      "target": "22A10.26",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A10",
+      "target": "22A10.27",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A20",
+      "target": "22A20.28",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A20",
+      "target": "22A20.29",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A20",
+      "target": "22A20.30",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A20",
+      "target": "22A20.31",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A20",
+      "target": "22A20.32",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A20",
+      "target": "22A20.33",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A30",
+      "target": "22A30.34",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A30",
+      "target": "22A30.35",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A30",
+      "target": "22A30.36",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A30",
+      "target": "22A30.37",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A30",
+      "target": "22A30.38",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A30",
+      "target": "22A30.39",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A40",
+      "target": "22A40.40",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A40",
+      "target": "22A40.41",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A40",
+      "target": "22A40.42",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A40",
+      "target": "22A40.43",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A40",
+      "target": "22A40.44",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22A40",
+      "target": "22A40.45",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B",
+      "target": "22B00",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22B",
+      "target": "22B10",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22B",
+      "target": "22B20",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22B",
+      "target": "22B30",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22B",
+      "target": "22B.46",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B",
+      "target": "22B.47",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B",
+      "target": "22B.48",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B",
+      "target": "22B.49",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B",
+      "target": "22B.50",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B",
+      "target": "22B.51",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B00",
+      "target": "22B0040",
+      "edge_type": "HAS_CHILD"
+    },
+    {
+      "source": "22B0040",
+      "target": "22B0040.74",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B0040",
+      "target": "22B0040.75",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B0040",
+      "target": "22B0040.76",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B0040",
+      "target": "22B0040.77",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B0040",
+      "target": "22B0040.78",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B10",
+      "target": "22B10.52",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B10",
+      "target": "22B10.53",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B10",
+      "target": "22B10.54",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B10",
+      "target": "22B10.55",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B10",
+      "target": "22B10.56",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B10",
+      "target": "22B10.57",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.58",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.59",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.60",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.61",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.62",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.63",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.64",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B20",
+      "target": "22B20.65",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.66",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.67",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.68",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.69",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.70",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.71",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.72",
+      "edge_type": "HAS_ACTIVITY"
+    },
+    {
+      "source": "22B30",
+      "target": "22B30.73",
+      "edge_type": "HAS_ACTIVITY"
+    }
+  ]
+}

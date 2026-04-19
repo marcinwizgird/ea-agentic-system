@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Bash(where python *)",
+      "Bash(/c/Users/marci/anaconda3/python.exe *)",
+      "Bash(python -c \"import bipartite_matcher; print\\('OK'\\)\")"
+    ]
+  }
+}

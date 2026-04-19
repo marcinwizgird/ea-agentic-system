@@ -1,0 +1,9 @@
+{
+  "total_nodes": 383,
+  "categories": 9,
+  "business_areas": 46,
+  "sub_business_areas": 328,
+  "refined": 0,
+  "refinement_strategy": "top_down",
+  "falkordb_graph": "capability_map"
+}
